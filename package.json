@@ -1,0 +1,27 @@
+{
+  "name": "cms",
+  "version": "1.0.0",
+  "description": "CRUD opetaions",
+  "main": "index.js",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "ejs": "^2.7.1",
+    "express": "^4.17.1",
+    "joi": "^14.3.1",
+    "nodemon": "^1.19.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sufiyan-Ansari/Course-Managemet-System.git"
+  },
+  "author": "Sufiyan Ansari",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sufiyan-Ansari/Course-Managemet-System/issues"
+  },
+  "homepage": "https://github.com/Sufiyan-Ansari/Course-Managemet-System#readme"
+}
